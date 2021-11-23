@@ -69,7 +69,7 @@ return 0 The return 0 statement, returns execution status to the OS. The 0 value
 
 
 
-<p>#include <stdio.h><br>
+#include <stdio.h><br>
 
 int main(){ <br>
 
@@ -78,9 +78,9 @@ printf("Hello C Language"); <br>
 return 0;<br>
 
 }
- </p>
  
- <br><br>
+ 
+ 
 
 
  
