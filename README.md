@@ -80,9 +80,7 @@ return 0;<br>
 
 } </p1><br><br>
 
-<p1>
 
-</p1>
 </body>
 
 </html>
