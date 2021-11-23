@@ -65,25 +65,7 @@ int main() The main() function is the entry point of every program in c language
 printf() The printf() function is used to print data on the console.<br><br>
 
 return 0 The return 0 statement, returns execution status to the OS. The 0 value is used for successful execution and 1 for unsuccessful execution.<br><br>
-<br><br>To write the first c program, open the C console and write the following code:<br>
-
-
-
-#include <stdio.h><br>
-
-int main(){ <br>
-
-printf("Hello C Language"); <br>
-
-return 0;<br>
-
-}
- 
- 
- 
-
-
- 
+<br><br>
  
 </body>
 
