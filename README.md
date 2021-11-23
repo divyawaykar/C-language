@@ -66,7 +66,7 @@ printf() The printf() function is used to print data on the console.<br><br>
 
 return 0 The return 0 statement, returns execution status to the OS. The 0 value is used for successful execution and 1 for unsuccessful execution.<br><br>
 <br><br>To write the first c program, open the C console and write the following code:<br>
-</p1>
+
 
 <p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
 #include <stdio.h><br>
@@ -77,7 +77,7 @@ printf("Hello C Language"); <br>
 
 return 0;<br>
 
-} </p1><br><br>
+} <br><br>
 
 
 </body>
