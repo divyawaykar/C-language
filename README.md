@@ -68,7 +68,7 @@ return 0 The return 0 statement, returns execution status to the OS. The 0 value
 <br><br>To write the first c program, open the C console and write the following code:<br>
 
 
-<p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
+
 <p>#include <stdio.h><br>
 
 int main(){ <br>
@@ -83,6 +83,8 @@ return 0;<br>
  <br><br>
 
 
+ 
+ 
 </body>
 
 </html>
